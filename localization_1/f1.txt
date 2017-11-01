@@ -1,0 +1,1312 @@
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.559317e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.106137e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.344097e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.409611e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 2.131909e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.043918e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.079274e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.409196e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 3.526814e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.879870e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.341899e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 2.886903e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 2.701328e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 3.085837e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.798172e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 3.866996e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 8.563739e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.260343e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 7.448510e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.105398e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.485545e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.677438e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.340021e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.677840e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.526610e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.554605e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.448471e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.610085e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.537865e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.057732e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.868926e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 2.113057e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.053837e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 5.990799e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 7.539167e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 5.932302e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 8.680051e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 9.729485e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.001536e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 8.395863e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.042387e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 9.971068e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.305977e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.447212e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.082212e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.383434e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.218821e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 3 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.077843e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 4.704780e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 6.398640e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 4.812434e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 4.059288e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 6.251219e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 6.735413e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 8.101677e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 7.349309e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 8.265847e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 8.269392e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.142941e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 7.399628e+01 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.126180e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.010498e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.294985e+02 
+**** LOG FILE **** 
+N: 3 
+M: 30 
+LOS gamma: 4 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 9.669653e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.640556e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.823293e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.018253e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.897352e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 2.350653e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.342862e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.736192e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.871048e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 3.553100e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.863517e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.654007e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 3.394283e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 2.950568e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 3.357622e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 3.785510e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 3.228802e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.324311e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.104645e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.102990e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.247173e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.230448e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.056466e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.219255e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.178601e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.806993e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.691453e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.754789e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.627587e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 2.010717e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.649913e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.000720e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.816593e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 7.078036e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 6.604993e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 7.430017e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 6.995937e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 8.161563e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.020863e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 8.756865e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.094286e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 8.924414e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.047757e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.347253e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.079131e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.318330e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.157947e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.713464e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 3 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.297115e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 7.171194e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 4.659199e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 4.879606e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 5.008094e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 7.441739e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 6.522812e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 7.333011e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 7.578777e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 8.786534e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 8.994447e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 7.337425e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 9.400681e+01 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.030899e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.002328e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.132197e+02 
+**** LOG FILE **** 
+N: 3 
+M: 50 
+LOS gamma: 4 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 8.500495e+01 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.703011e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.027983e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.915504e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.733756e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 2.771411e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.627878e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.708453e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 2.538526e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 2.733915e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.536784e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.988782e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 3.317003e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 3.181179e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 2.479523e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 2.982448e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 1 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 3.841700e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.104523e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.037238e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 8.898006e+01 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.118359e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.406138e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.292348e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.351525e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 2 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.397949e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.605425e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.769986e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.645617e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 3 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.284266e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 1.419487e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 1.591468e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 1.607307e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 2 
+LOS sigma: 4 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 1.766212e+02 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 2 
+MSE: 7.830201e+01 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 1 
+Localization Option: 3 
+MSE: 8.153003e+01 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 2 
+MSE: 5.873680e+01 
+**** LOG FILE **** 
+N: 3 
+M: 70 
+LOS gamma: 3 
+LOS sigma: 1 
+Data generation Option: 2 
+Localization Option: 3 
+MSE: 6.869683e+01 

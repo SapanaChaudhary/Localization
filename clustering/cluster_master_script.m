@@ -1,6 +1,6 @@
 %% clustering master script
-clear all
-close all
+%clear all
+%close all
 
 load('phi','phi'); % load RN locations
 % obtain cluster counts

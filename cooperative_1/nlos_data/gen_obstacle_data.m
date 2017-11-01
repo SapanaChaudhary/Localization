@@ -9,20 +9,20 @@ d_0 = 1; % reference distance in m
 L_0 = 40; % received power at d_0
 gamma_los = 3; % path loss exponent
 sigma_los = 1; % noise variance
-M = 50;
+M = 800;
 
 %% NLOS parameters
 gamma_nlos = 4;
 sigma_nlos = 3;
 
 %% Use poisson rv to generate BNs
-lam_1 = 5; %density of obstacles 
+lam_1 = 3; %density of obstacles 
 rad_2 = 2*rad;
 obst = poissrnd(2, [rad_2 rad_2]);
 spar_den_1 = nnz(obst)/(rad_2*rad_2);
 
 %% make the obstacle density more sparse
-p = 0.0001; % for rad = 20m 0.0001; % for rad = 500m 
+p = 0.00008; % for rad = 20m 0.0001; % for rad = 500m 
 for i = 1:rad_2
     for j = 1:rad_2
         s1 = binornd(1,p); % with p=0.3 it returns 1
@@ -49,7 +49,7 @@ for i = 1:rad_2
     end
 end
 
-save('obst_1','obst_1');
+save('obst_1.mat','obst_1');
 %% plot the points
 figure()
 scatter(obst_1(:,2),obst_1(:,3),'r');
@@ -98,7 +98,7 @@ for i = 1:M
 end
 
 save('L_A','L_A');
-nnz(los_or_not)
+nnz(los_or_not)/(M*N)
 %% create L_B
 k = 1;
 for j = 1:M % for all the points

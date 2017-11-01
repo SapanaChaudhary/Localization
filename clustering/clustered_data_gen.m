@@ -7,7 +7,7 @@ clear all
 close all
 
 N = 6;
-M = 50;
+M = 100; %number of BNs
 rad = 20;
 theta = randi(40,M,2); % from gxg grid sample n points 
 theta_org = theta - repmat([20 20],M,1);
@@ -21,19 +21,8 @@ L_0 = 40; % received power at d_0
 gamma = 3; % path loss exponent
 sigma = 1; % noise variance
 %theta = [0 2]; %[-5 -15];
-M = 50; %number of BNs
 no_clus = 10; % No. of clusters 
-
-%% initializations
-rad = 20; % radius of the circle centered at (0,0)
-N = 6; % No. of RNs
-d_0 = 1; % reference distance in m
-L_0 = 40; % received power at d_0
-gamma = 3; % path loss exponent
-sigma = 1; % noise variance
-%theta = [0 2]; %[-5 -15];
-M = 50; %number of BNs
-no_clus = 10; % No. of clusters 
+ 
 %% get RN locations
 for i = 1:N
    a(i) = rad*cos(2*pi*(i-1)/N);
@@ -47,9 +36,9 @@ save('phi','phi');
 nlos_gamma = 4;
 nlos_sigma = 4;
 
-%% obtain RSS at BN from NLOS BS
+% obtain RSS at BN from NLOS BS
 for j = 1:M % for all the points
-    % i.i.d gaussian noise 
+    %i.i.d gaussian noise 
     m = mvnrnd(0,nlos_sigma,1);
     for i = 1 % from all the NLOS BS
         L_A(j,i) = L_0 + 10*nlos_gamma*log10(norm(theta(j,:)-phi(i,:),2)/d_0) + m(i);
@@ -68,7 +57,7 @@ end
 save('L_A','L_A');
 
 %% k means clustering
-no_of_clusters = 10;
+no_of_clusters = 15;
 idx = kmeans(L_A,no_of_clusters);
 
 %% sort
@@ -106,7 +95,19 @@ for i = 1:no_of_clusters
 end
 
 
-
+a = 1;
+b = idx_count(1);
+for i = 1:no_of_clusters
+    figure()
+    theta_2 = [];
+    theta_2 = theta_1_sort(a:b,2:3);
+    a = b+1;
+    b = b + idx_count(i+1);
+    scatter(theta_2(:,1),theta_2(:,2),'filled');
+    hold on
+    xlim([-20 20])
+    ylim([-20 20])
+end
 
 
 

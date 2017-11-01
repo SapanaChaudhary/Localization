@@ -7,16 +7,16 @@ clear all
 close all
 
 %% initializations
-rad = 20; % radius of the circle centered at (0,0)
+rad = 500; % radius of the circle centered at (0,0)
 N = 6; % No. of RNs
 d_0 = 1; % reference distance in m
 L_0 = 40; % received power at d_0
 gamma = 3; % path loss exponent
 sigma = 1; % noise variance
 %theta = [0 2]; %[-5 -15];
-M = 50;
-theta = randi(40,M,2); % from gxg grid sample n points 
-theta_org = theta - repmat([20 20],M,1);
+M = 1;
+theta = randi(rad*2,M,2); % from gxg grid sample n points 
+theta_org = theta - repmat([rad rad],M,1);
 save('theta_org','theta_org');
 %% NLOS parameters
 % nlos_gamma = 4;

@@ -5,8 +5,8 @@
 %function [theta_pred] = sdp_3_nlos(L,phi,M)
 load('L_A')
 load('phi')
-M = 50;
-rad = 20; % radius of the circle centered at (0,0)
+M = 1;
+rad = 500; % radius of the circle centered at (0,0)
 N = 6; % No. of RNs
 d_0 = 1; % reference distance in m
 L_0 = 40; % received power at d_0
