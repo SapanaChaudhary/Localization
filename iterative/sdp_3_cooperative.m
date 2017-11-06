@@ -62,7 +62,7 @@ end
 % t_sij = [12 13..1M 23 24..2M 34 35..3M (M-1)M];
 % total number of elements in t = M*N + M*(M-1)/2; 
 m = 2;
-n = M*N + M*(M-1)/2; 
+n = M*N ; %+ M*(M-1)/2; 
 
 cvx_begin sdp quiet
 variable Z(M+2,M+2) 
