@@ -13,7 +13,7 @@ L_0 = 40; % received power at d_0
 gamma = 3; % path loss exponent
 sigma = 1; % noise variance
 %theta = [0 2]; %[-5 -15];
-M = 50;
+M = 1;
 
 %% Get BN locations
 theta = randi(rad*2,M,2); % from gxg grid sample n points 

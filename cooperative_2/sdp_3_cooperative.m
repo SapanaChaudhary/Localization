@@ -23,7 +23,7 @@ load theta_org
 
 %%
 N = 6;
-M = 50;
+M = 1;
 rad = 500;
 for i = 1:N
    a(i) = rad*cos(2*pi*(i-1)/N);
