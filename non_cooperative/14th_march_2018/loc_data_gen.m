@@ -56,9 +56,9 @@ end
 phi = [a;b]';
 
 % Get MS locations
-theta = randi(rad*2,M,2); % from gxg grid sample n points 
-theta_org = theta - repmat([rad rad],M,1);
-% theta_org = [250,250];
+ theta = randi(rad*2,M,2); % from gxg grid sample n points 
+ theta_org = theta - repmat([rad rad],M,1);
+%theta_org = [250,250];
 
 % Get L_A 
 % obtain RSS at BN from LOS BS
